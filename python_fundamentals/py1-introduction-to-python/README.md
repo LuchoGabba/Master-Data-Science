@@ -1,7 +1,7 @@
 # py1-introduction-to-python
 
-Download both Jupyter notebooks to your computer.
+Please download both Jupyter notebooks to your local machine.
 
-Solutions points to the solutions of the Notebooks. Download to your computer for the solutions.
+For the solutions to the exercises in the notebooks, refer to the "Solutions" keyword. Make sure to download these solution notebooks as well to access the answers.
 
-Also download the Images folder so that the images can be seen on the notebooks.
+Additionally, download the "Images" folder. This ensures that all visual content is properly displayed within the notebooks.
