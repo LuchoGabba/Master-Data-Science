@@ -1,4 +1,4 @@
-# py7-read-and-write-txt
+# py8-read-and-write-txt
 
 Please download all Jupyter notebooks to your local machine.
 
