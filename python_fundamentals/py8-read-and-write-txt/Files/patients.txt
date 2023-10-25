@@ -1,0 +1,7 @@
+surname	age	gender	otitis
+Vidal-Ribas	49	male	yes
+Sagnier	17	female	no
+Costa	32	non-binary	no
+Valente	67	female	no
+Stanislawsky	13	female	yes
+Recolons	51	male	no

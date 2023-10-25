@@ -1,0 +1,6 @@
+Hello! Welcome to Assembler_School.txt    
+This file is for testing purposes.       
+
+Hope you enjoy programming :)    
+
+Good Luck!
