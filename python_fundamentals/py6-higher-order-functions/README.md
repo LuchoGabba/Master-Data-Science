@@ -1,5 +1,7 @@
 # py6-higher-order-functions
 
-Download the Jupyter notebooks to your computer.
+Please download all Jupyter notebooks to your local machine.
 
-Also download the Images folder so that the images can be seen on the notebooks.
+For the solutions to the exercises in the notebooks, refer to the "solutions" keyword. Make sure to download these solution notebooks as well to access the answers.
+
+Additionally, download the "Images" (if available) and "logos" folders to ensure that all visual content is displayed correctly within the notebooks.
