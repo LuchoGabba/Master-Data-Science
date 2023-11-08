@@ -13,7 +13,6 @@ tests = [(["NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH", "WEST"],
 
 
 # Test runner function
-# Test runner function
 def run_tests(dirReduc: Callable[[List[str]], List[str]]) -> None:
     """Run a suite of tests on the dirReduc function.
     
@@ -35,5 +34,3 @@ def run_tests(dirReduc: Callable[[List[str]], List[str]]) -> None:
 # This allows the script to be imported without immediately running the test
 if __name__ == "__main__":
     run_tests()
-
-    
