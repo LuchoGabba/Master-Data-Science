@@ -1,0 +1,40 @@
+Año,Título original,Papel,Notas
+2001,The Princess Diaries,Mia Thermopolis,
+2001,The Other Side of Heaven,Jean Sabin,
+2002,Neko no Ongaeshi,Haru Yoshioka,Voz
+2002,Nicholas Nickleby,Madeline Bray,
+2004,Ella Enchanted,Ella de Frell,
+2004,The Princess Diaries 2: Royal Engagement,Mia Thermopolis,
+2005,Hoodwinked!,Caperucita Roja,Voz
+2005,Havoc,Allison Lang,
+2005,Brokeback Mountain,Lureen Newsome Twist,Nominación: Premio SAG al mejor reparto
+2006,The Devil Wears Prada,Andrea Sachs,
+2007,Becoming Jane,Jane Austen,
+2008,Get Smart,Agente 99,
+2008,Passengers,Claire Summers,
+2008,Rachel Getting Married,Kym Buchman,Nominación: Óscar a la mejor actrizNominación:  Globo de Oro a la mejor actriz - DramaNominación:  Premio del Sindicato de Actores a la mejor actriz principalNominación:  Independent Spirit Award a la mejor actriz principal
+2009,Guerra de novias,Emma Allen,
+2010,Valentine's Day,Elizabeth «Liz» Curran,
+2010,Alicia en el país de las maravillas,Mirana, la reina Blanca,
+2010,Love and Other Drugs,Maggie Murdock,Nominación: Globo de Oro a la Mejor actriz - Comedia o musical
+2011,Río,Perla,Voz
+2011,One Day,Emma Morley,
+2012,The Dark Knight Rises,Catwoman / Selina Kyle,
+2012,Los miserables,Fantine,Óscar a la Mejor Actriz de RepartoGlobo de Oro a la mejor actriz de repartoBAFTA a la mejor actriz de repartoPremio del Sindicato de Actores a la Mejor Actriz de Reparto
+2013,Don Jon,Emily Lombardo,
+2014,Song One,Franny,También productora
+2014,Río 2,Perla,Voz
+2014,Interstellar,Amelia Brand,
+2015,The Intern,Jules Ostin,
+2016,Alicia a través del espejo,Mirana, la reina Blanca,
+2016,Colossal,Gloria,Productora ejecutiva
+2018,Ocean's 8,Daphne Kluger,
+2019,The Hustle,Josephine,
+2019,Dark Waters,Sarah Bilott,
+2019,Serenity,Karen,
+2020,Su último deseo,Elena McMahon,Película original de Netflix
+2020,Las brujas,Miss Eva Ernst / Grand High Witch,
+2021,Locked Down,Linda,
+2022,Armageddon Time,Esther Graff,
+2023,Eileen,Rebecca,
+2023,She Came to Me,Patricia,
