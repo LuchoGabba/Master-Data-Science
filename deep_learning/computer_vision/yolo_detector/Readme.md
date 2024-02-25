@@ -46,7 +46,7 @@ Different images might reveal how well the model can generalize across various c
 ## Instructions & Set up
 
 1. **Set Up Your Python Environment**: Use conda or venv to create a new environment for this project. Install necessary packages, including OpenCV.
-2. **Download YOLOv3 Weights**: Use the YOLO GitHub link provided in the resources to download the pre-trained weights (`yolov3.weights`).
+2. **Download YOLOv3 Weights (mandatory!)**: Use the YOLO GitHub link provided in the resources to download the pre-trained weights (`yolov3.weights`).
 3. **Implement Your Detector**: Code your Python program to use the YOLOv3 model for object detection. Utilize the `coco.names` for class names, adjust the confidence threshold as needed, and apply NMS.
 4. **Shell Script (optional)**: Write a ShellScript to easily run your Python program. Ensure it can pass parameters (like image path or confidence threshold) to the Python script.
 5. **Experiment**: Try running your detector on various images to see how it performs. Adjust confidence and NMS thresholds based on your needs.
