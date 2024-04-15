@@ -9,6 +9,26 @@ In this exercise, you’ll learn how to load and use a pre-trained ML model for 
 - Code a ShellScript to launch the program.
 - Pass parameters from the Shell Script to the Python program.
 
+## Questions
+
+1. What’s the purpose of the coco.names file?
+
+2. What’s the cv.dnn.blobFromImage(..) method?
+
+3. What happens when playing with the confidence variable? What's it for?
+
+    Hint: Try extreme values like: —   if confidence > 0.9:
+
+4. The method cv.dnn.NMSBoxes is strange. What’s its function?
+
+5. Play with other images with different colors
+
+6. If we want fewer false positives, what can we do?
+
+7. If we want fewer false negatives, what can we do?
+
+**Explain everything in your own words.**
+
 ## Computer Vision Insights
 
 ### Purpose of the coco.names File
